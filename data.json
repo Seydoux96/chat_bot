@@ -32,7 +32,7 @@
             "Bébé Dame"
         ],
         "session": {
-            "step": "config_menu",
+            "step": null,
             "mode": null,
             "repetition": null,
             "revision": null,
